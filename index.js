@@ -9,7 +9,7 @@ const perguntas = [
         correta: 0 // Resposta A) Ocultação de implementação
     },
     {
-        pergunta: "Qual é a diferença entre '== e '.equals()' em Java?",
+        pergunta: "Qual é a diferença entre '==' e '.equals()' em Java?",
         respostas: [
             "A) Não há diferença, ambos comparam conteúdo",
             "B) '==' compara referências de objeto, '.equals()' compara conteúdo",
