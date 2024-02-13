@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://lucashcoliveira7.github.io/nlw-expert-html-css-js/" target="_blank"><img src="https://img.shields.io/badge/Acesse o Projeto-C71D23.svg?" height="60" width="230"></a>
+</p>
+
+<p align="center">
   Certificado: https://app.rocketseat.com.br/certificates/ad3b3091-70a5-4583-ada7-725e5d216837
 </p>
 
